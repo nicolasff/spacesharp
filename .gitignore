@@ -1,0 +1,4 @@
+**/*.dll
+*.o
+*.so
+lex-yacc/*.o
